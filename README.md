@@ -12,4 +12,4 @@ Describe to Dana how someone might use the new webpage by walking her through th
 ## Summary
 
 image example
-![image](https://myoctocat.com/assets/images/base-octocat.svg)
+![image](https://myoctocat.com/assets/images/base-octocat.svg
